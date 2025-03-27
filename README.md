@@ -31,3 +31,5 @@ SCAN moves the disk head in one direction, servicing requests as it encounters t
 🔹 Circular SCAN (C-SCAN)
 C-SCAN operates similarly to SCAN but only moves in one direction. Once the disk head reaches the last request, it jumps back to the beginning without servicing any requests while moving back. This provides more uniform response times compared to SCAN.
 
+Why Use This Simulator?
+The Disk Scheduler GUI is a worthwhile learning resource for students, teachers, and professionals who need to understand the intricacies of disk scheduling. By offering visualization in real-time, it bridges the gap between abstract understanding and practical implementation, simplifying it to analyze how different algorithms fare under different scenarios.
